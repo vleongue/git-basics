@@ -1,4 +1,3 @@
 chickadee
 dark-eyed junco
 goldfinch
-emu
